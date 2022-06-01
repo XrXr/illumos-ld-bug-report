@@ -1,1 +1,2 @@
-# illumos link-editor bug report
+- <https://www.illumos.org/issues/14722>
+- <https://github.com/XrXr/illumos-ld-bug-report/releases>
